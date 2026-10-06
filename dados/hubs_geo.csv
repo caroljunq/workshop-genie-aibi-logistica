@@ -1,0 +1,15 @@
+hub_id,hub_nome,tipo_hub,operadora,regiao,estado_nome,estado_sigla,cidade,pais,latitude,longitude,capacidade_ton_dia,custo_fixo_diario_brl,data_abertura
+HUB-SP-01,CD Leste Paulista,Centro de distribuição,Atlântica Cargo,Sudeste,São Paulo,SP,Guarulhos,Brazil,-23.4542,-46.5333,4200,18500,2016-04-12
+HUB-SP-02,Porto de Santos,Porto,VerdeMar Shipping,Sudeste,São Paulo,SP,Santos,Brazil,-23.9608,-46.3336,6800,31200,2009-08-03
+HUB-RJ-01,CD Baía de Guanabara,Centro de distribuição,Atlântica Cargo,Sudeste,Rio de Janeiro,RJ,Rio de Janeiro,Brazil,-22.9068,-43.1729,3100,16400,2018-01-22
+HUB-MG-01,Terminal Serra Mineira,Terminal rodoviário,SerraSul Cargas,Sudeste,Minas Gerais,MG,Belo Horizonte,Brazil,-19.9167,-43.9345,2600,12100,2015-11-09
+HUB-PR-01,Pátio Ferroviário Curitiba,Terminal ferroviário,SerraSul Cargas,Sul,Paraná,PR,Curitiba,Brazil,-25.4284,-49.2733,2900,14200,2014-06-18
+HUB-RS-01,Porto de Rio Grande,Porto,VerdeMar Shipping,Sul,Rio Grande do Sul,RS,Rio Grande,Brazil,-32.035,-52.0986,3500,19800,2011-03-07
+HUB-BA-01,CD Recôncavo,Centro de distribuição,Atlântica Cargo,Nordeste,Bahia,BA,Salvador,Brazil,-12.9714,-38.5014,2400,10900,2019-09-14
+HUB-PE-01,Porto de Suape,Porto,VerdeMar Shipping,Nordeste,Pernambuco,PE,Ipojuca,Brazil,-8.3956,-34.9733,4000,22100,2012-12-01
+HUB-CE-01,CD Costa do Sol,Centro de distribuição,CostaBrava Log,Nordeste,Ceará,CE,Fortaleza,Brazil,-3.7172,-38.5433,1800,8700,2021-05-20
+HUB-AM-01,Porto Fluvial Manaus,Base fluvial,RioNorte Express,Norte,Amazonas,AM,Manaus,Brazil,-3.119,-60.0217,2200,15600,2010-07-30
+HUB-PA-01,Terminal Belém,Base fluvial,RioNorte Express,Norte,Pará,PA,Belém,Brazil,-1.4558,-48.4902,2100,13400,2013-02-16
+HUB-MT-01,CD Centro-Oeste,Centro de distribuição,SerraSul Cargas,Centro-Oeste,Mato Grosso,MT,Cuiabá,Brazil,-15.6014,-56.0979,2700,11800,2017-10-05
+HUB-DF-01,Hub Planalto,Centro de distribuição,Atlântica Cargo,Centro-Oeste,Distrito Federal,DF,Brasília,Brazil,-15.7939,-47.8828,2000,13200,2020-08-11
+HUB-GO-01,Pátio Anápolis,Terminal ferroviário,SerraSul Cargas,Centro-Oeste,Goiás,GO,Anápolis,Brazil,-16.3281,-48.9534,2300,10100,2016-01-28
